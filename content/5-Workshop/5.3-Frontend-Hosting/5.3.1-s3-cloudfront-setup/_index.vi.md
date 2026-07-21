@@ -33,5 +33,5 @@ bước 4
 
 6 Nhấn Create distribution. Sau khi tạo xong, CloudFront sẽ cung cấp một đoạn Policy, hãy copy và dán vào phần Permissions > Bucket policy của S3 bucket để cấp quyền cho CloudFront truy cập.
 
- ![Distribution domain name ](/images/5-workshop/5.3.1-s3-cloudfront-setup/Distribution.png)
+ ![Distribution domain name ](/images/5-Workshop/5.3.1-s3-cloudfront-setup/Distribution.png)
 
