@@ -25,4 +25,4 @@ pre : " <b> 5.7. </b> "
 
 > **Documentation**
 
-<iframe src="https://drive.google.com/file/d/1aCZ58kYT-ZtWm0d9SbhvPzIuLb5axqmM/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1aCZ58kYT-ZtWm0d9SbhvPzIuLb5axqmM/preview" width="640" height="480" allow="autoplay"></iframe>

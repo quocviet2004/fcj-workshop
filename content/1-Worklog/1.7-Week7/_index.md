@@ -32,4 +32,3 @@ pre: " <b> 1.7. </b> "
 
 ![Amazon SNS Topic configuration and email subscription confirmation](/images/1-Worklog/1.7-Week7/sns-email-subscription.png)
 
-![Amazon CloudWatch Alarm monitoring API Gateway 5xx errors](/images/1-Worklog/1.7-Week7/cloudwatch-alarm-5xx.png)
