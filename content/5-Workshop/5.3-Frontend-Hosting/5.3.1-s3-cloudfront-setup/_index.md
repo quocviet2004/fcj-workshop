@@ -54,4 +54,4 @@ Click **Create distribution** to deploy the CloudFront distribution.
 
 After the distribution has been created, Amazon CloudFront will generate a **Bucket Policy**. Copy the generated policy and paste it into **Permissions → Bucket Policy** of the corresponding Amazon S3 bucket. This grants CloudFront permission to securely access the bucket while keeping the bucket private.
 
-![CloudFront distribution domain name](/fcj-workshop/images/5-Workshop/5.3.1-s3-cloudfront-setup/Distribution.png)
+![CloudFront distribution domain name](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/Distribution.png)
