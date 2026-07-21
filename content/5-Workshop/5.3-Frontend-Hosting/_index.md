@@ -1,5 +1,5 @@
 ---
-title : "Frontend-Hosting"
+title : "frontend-hosting"
 date : 2026-07-01
 weight : 3
 chapter : false

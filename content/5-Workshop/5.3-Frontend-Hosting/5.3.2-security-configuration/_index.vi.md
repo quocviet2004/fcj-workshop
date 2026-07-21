@@ -1,5 +1,5 @@
 ---
-title : "oac-security-configuration"
+title : "security-configuration"
 date : 2026-07-01 
 weight : 2
 chapter : false
@@ -12,11 +12,11 @@ Các bước thực hiện:
 
 bước 1
 Truy cập vào trang quản lý CloudFront, sao chép Distribution domain name (VD: d123456789.cloudfront.net).
-![CloudFront](/images/5-Workshop/5.3.2-oac-security-configuration/CloudFront.png)
+![CloudFront](/images/5-Workshop/5.3.2-security-configuration/CloudFront.png)
 
 bước 2
 Dán URL này vào trình duyệt để kiểm tra giao diện Traveloka-booking.
-![URL](/images/5-Workshop/5.3.2-oac-security-configuration/URL.png)
+![URL](/images/5-Workshop/5.3.2-security-configuration/URL.png)
 
 bước 3
 Kiểm tra bộ nhớ đệm: Thử F5 lại trang web. Nếu CloudFront hoạt động tốt, tốc độ tải các file static sẽ nhanh hơn so với truy cập trực tiếp S3.
