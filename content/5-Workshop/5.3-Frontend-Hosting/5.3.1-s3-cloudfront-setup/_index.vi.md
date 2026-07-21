@@ -3,7 +3,7 @@ title : "s3-cloudfront-setup"
 date : 2026-07-01
 weight : 3
 chapter : false
-pre : " <b> 5.3. </b> "
+pre : " <b> 5.3.1 </b> "
 ---
 
 ### Mục tiêu: Tạo S3 Bucket và thiết lập CloudFront Distribution.

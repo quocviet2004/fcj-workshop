@@ -14,7 +14,7 @@ Navigate to the **Amazon S3** service and select **Create bucket**. Enter a uniq
 
 ![Create an Amazon S3 bucket](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/s3.png)
 
-#### Step 2: Upload the Frontend Build FilesS
+#### Step 2: Upload the Frontend Build Files
 
 Upload the entire **`dist`** folder (generated after building the ReactJS application) to the Amazon S3 bucket.
 
