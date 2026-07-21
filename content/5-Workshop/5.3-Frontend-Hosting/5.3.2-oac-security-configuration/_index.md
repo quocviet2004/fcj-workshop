@@ -14,13 +14,13 @@ Follow the steps below to ensure that the frontend has been deployed successfull
 
 Open the **Amazon CloudFront** console and copy the **Distribution domain name** (for example, `d123456789.cloudfront.net`).
 
-![Amazon CloudFront Distribution](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.2-oac-security-configuration/CloudFront.png)
+![Amazon CloudFront Distribution](/images/5-Workshop/5.3-Frontend-Hosting/5.3.2-oac-security-configuration/CloudFront.png)
 
 #### Step 2
 
 Paste the distribution URL into your web browser and verify that the **MINI Traveloka Booking** website loads successfully.
 
-![Access the CloudFront URL](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.2-oac-security-configuration/URL.png)
+![Access the CloudFront URL](/images/5-Workshop/5.3-Frontend-Hosting/5.3.2-oac-security-configuration/URL.png)
 
 #### Step 3
 

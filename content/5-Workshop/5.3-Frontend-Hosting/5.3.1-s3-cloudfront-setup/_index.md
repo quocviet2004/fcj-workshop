@@ -12,13 +12,13 @@ pre : " <b> 5.3.1 </b> "
 
 Navigate to the **Amazon S3** service and select **Create bucket**. Enter a unique bucket name (for example, `traveloka-clone-frontend`) and keep the default setting **Block all public access** enabled.
 
-![Create an Amazon S3 bucket](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/s3.png)
+![Create an Amazon S3 bucket](/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/s3.png)
 
 #### Step 2: Upload the Frontend Build Files
 
 Upload the entire **`dist`** folder (generated after building the ReactJS application) to the Amazon S3 bucket.
 
-![Upload frontend build files](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/upload.png)
+![Upload frontend build files](/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/upload.png)
 
 #### Step 3: Create an Amazon CloudFront Distribution
 
@@ -26,19 +26,19 @@ Navigate to **Amazon CloudFront** and select **Create distribution**. Complete t
 
 **Step 1**
 
-![CloudFront configuration - Step 1](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/setup1.png)
+![CloudFront configuration - Step 1](/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/setup1.png)
 
 **Step 2**
 
-![CloudFront configuration - Step 2](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/setup2.png)
+![CloudFront configuration - Step 2](/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/setup2.png)
 
 **Step 3**
 
-![CloudFront configuration - Step 3](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/setup3.png)
+![CloudFront configuration - Step 3](/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/setup3.png)
 
 **Step 4**
 
-![CloudFront configuration - Step 4](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/setup4.png)
+![CloudFront configuration - Step 4](/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/setup4.png)
 
 #### Step 4: Select the Origin
 
@@ -54,4 +54,4 @@ Click **Create distribution** to deploy the CloudFront distribution.
 
 After the distribution has been created, Amazon CloudFront will generate a **Bucket Policy**. Copy the generated policy and paste it into **Permissions → Bucket Policy** of the corresponding Amazon S3 bucket. This grants CloudFront permission to securely access the bucket while keeping the bucket private.
 
-![CloudFront distribution domain name](/fcj-workshop/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/Distribution.png)
+![CloudFront distribution domain name](/images/5-Workshop/5.3-Frontend-Hosting/5.3.1-s3-cloudfront-setup/Distribution.png)
