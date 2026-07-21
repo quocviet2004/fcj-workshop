@@ -32,4 +32,4 @@ pre: " <b> 1.9. </b> "
 
 ![Overall user interface](images/1-Worklog/1.9-Week9/ui-ux-css.png)
 
-![Overall user interface](/fcj-workshop/images/1-Worklog/1.9-Week9/ui-ux-css.png)
+![Promotional coupon card design on the website](images/1-Worklog/1.9-Week9/coupon-cards.png)
