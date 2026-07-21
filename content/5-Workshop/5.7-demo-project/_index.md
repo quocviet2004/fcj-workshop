@@ -25,7 +25,4 @@ pre : " <b> 5.7. </b> "
 
 > **Documentation**
 
-<video width="100%" controls>
-  <source src="/videos/5.7-demo-project/traveloka-demo.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ thẻ video.
-</video>
+<iframe src="https://drive.google.com/file/d/1aCZ58kYT-ZtWm0d9SbhvPzIuLb5axqmM/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
