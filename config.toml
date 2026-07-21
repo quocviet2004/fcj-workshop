@@ -1,6 +1,6 @@
 baseURL = 'https://quocviet2004.github.io/fcj-workshop/'
-relativeURLs = false
-canonifyURLs = false
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
