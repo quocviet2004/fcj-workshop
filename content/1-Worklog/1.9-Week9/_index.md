@@ -30,6 +30,6 @@ pre: " <b> 1.9. </b> "
 
 ### Week 9 Evidence:
 
-![Overall user interface after implementing Flexbox layout and CSS styling](/fcj-workshop/images/1-Worklog/1.9-Week9/ui-ux-css.png)
+![Overall user interface](images/1-Worklog/1.9-Week9/ui-ux-css.png)
 
-![Promotional coupon card design on the website](/fcj-workshop/images/1-Worklog/1.9-Week9/coupon-cards.png)
+![Overall user interface](/fcj-workshop/images/1-Worklog/1.9-Week9/ui-ux-css.png)
