@@ -29,8 +29,8 @@ pre: " <b> 1.9. </b> "
 * Bố cục Flexbox giúp trang web hiển thị gọn gàng, các thẻ Coupon giảm giá được thiết kế tỉ mỉ, bám sát với giao diện gốc của Traveloka.
 
 ### Hình ảnh minh chứng tuần 9:
-![Giao diện tổng thể sau khi dàn trang Flexbox và CSS](/images/1-Worklog/1.9-Week9/ui-ux-css.png)
+![Giao diện tổng thể sau khi dàn trang Flexbox và CSS](images/1-Worklog/1.9-Week9/ui-ux-css.png)
 
-![Thiết kế các thẻ Coupon giảm giá trên web](/images/1-Worklog/1.9-Week9/coupon-cards.png)
+![Thiết kế các thẻ Coupon giảm giá trên web](images/1-Worklog/1.9-Week9/coupon-cards.png)
 
 
